@@ -1,0 +1,27 @@
+AGROAGUA - PROTOTIPO ACADEMICO UNAD
+
+COMO ABRIR EL PROGRAMA EN WINDOWS
+1. Descomprime el archivo ZIP descargado: clic derecho > Extraer todo.
+2. Abre la carpeta agroagua_unad.
+3. Haz doble clic en index.html.
+4. Se abrira en Chrome, Edge u otro navegador. No requiere internet ni instalacion.
+
+COMO PRACTICAR
+1. Pulsa Informes > Cargar datos de ejemplo.
+2. Pulsa Inicio y observa las cifras y las barras.
+3. Pulsa Cultivos y revisa los dos cultivos simulados.
+4. Pulsa Riegos y observa los tres registros.
+5. Pulsa Alertas: veras un riego que supera el limite.
+6. Pulsa Informes > Descargar informe CSV. Puedes abrirlo con Excel.
+7. Para registrar tus datos: ve a Cultivos, completa los campos y guarda.
+8. Luego ve a Riegos, selecciona el cultivo, registra fecha y litros y guarda.
+
+IMPORTANTE
+- Los datos se guardan solo en el navegador de ese computador (localStorage).
+- Si borras los datos del navegador o abres otro navegador, los registros pueden no aparecer.
+- Esta version NO tiene usuarios ni contrasenas, base de datos remota, sensores IoT ni integracion climatica.
+- Los limites de agua los configura el usuario; no son calculos agronomicos validados.
+- Es una primera version funcional, NO una validacion TRL5 acreditada.
+- Para cumplir la Fase 4 falta contrastar la tecnologia con el documento maestro,
+  implementar mejoras, realizar pruebas documentadas en entorno relevante,
+  subir el codigo a GitHub y grabar un video de maximo 10 minutos.
